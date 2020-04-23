@@ -23,6 +23,12 @@ int main(){
 	element has been found or we know that it does not appear in the array.
 	During the search, the variable b contains the current jump length.
 	*/
+
+	int k=0;
+	for(int b=n/2 ; b>=1 ; b/=2){
+		while(k+b < n && data[k+b]<=target) k+=b;
+
+	}
 }
 
 
