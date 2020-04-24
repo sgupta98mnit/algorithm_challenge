@@ -25,7 +25,7 @@ int solve(int sum){
 int main(){
 	/* Iterative solution */
     value[0]=0;
-    for(int x=1;x=n;++x){
+    for(int x=1;x<=n;++x){
 
     }
 }
