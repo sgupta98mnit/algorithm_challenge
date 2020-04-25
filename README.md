@@ -8,6 +8,7 @@ Day 7 - Problems on Sorting.<br />
 Day 8 - Binary Search, C++ STL.<br />
 Day 9 - Coin Change Problem(DP).<br />
 Day 10 - Number of ways to make sum,Paths in grid,Longest incresing Subsequence.<br />
+Day 11 - Knapsack Problem.<br />
 		
 
 

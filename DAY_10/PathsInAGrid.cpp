@@ -10,3 +10,4 @@ for(int row=1;row<=n;++row){
 		sum[row][col]=max(sum[row-1][col],sum[row][col-1])+value[row][col];
 	}
 }
+
